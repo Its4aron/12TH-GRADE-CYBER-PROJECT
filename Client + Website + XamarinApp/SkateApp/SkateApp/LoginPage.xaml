@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SkateApp.LoginPage">
+    <ContentPage.Content>
+        <ScrollView>
+        <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Label Text="RideSpot" FontSize="50" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+                <Entry  Placeholder="Username" Grid.Row="1" VerticalOptions="Start" x:Name="u1" />
+                <Entry Placeholder="Password" IsPassword="True" Grid.Row="1" VerticalOptions="End"  x:Name="p1" />
+                <Button Text="Login" Clicked="log_in" Grid.Row="2" VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="40" BackgroundColor="SkyBlue"></Button>
+                <Button Text=" click to Sign up" Clicked="go_to_reg" Grid.Row="3" VerticalOptions="Start" HorizontalOptions="Center" BackgroundColor="Transparent"> </Button>
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

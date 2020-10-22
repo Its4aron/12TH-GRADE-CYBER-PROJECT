@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SkateApp.UpLocPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid x:Name="spot">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Label Text="Upload current location!" FontAttributes="Bold" HorizontalOptions="Center" Grid.Row="0" VerticalOptions="Center" FontSize="25" TextColor="Black"> </Label>
+                <Entry  Placeholder="Location name" Grid.Row="1" VerticalOptions="Start" Text="{Binding Name}"  />
+                <Picker Grid.Row="2"  Title="Select type of spot" VerticalOptions="Start" ItemDisplayBinding="{Binding Type}" SelectedItem="{Binding LType}" x:Name="locbox"/>
+                <Entry  Placeholder="Description" Grid.Row="3" VerticalOptions="Start" Text="{Binding Des}" />
+                <Button  VerticalOptions="Center"  Clicked="up_spot" Grid.Row="4" Text="add spot" BackgroundColor="Transparent"/>
+
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

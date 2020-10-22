@@ -1,0 +1,55 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+   <style>
+       titless.{
+           position:absolute;
+           right:69%;
+       }
+
+       .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+       .auto-style1 {
+           width: 205px;
+       }
+
+
+   </style>
+    <asp:ContentPlaceHolder id="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+       <table width="100%" > 
+           <tr height="200">
+              
+               <td colspan="2">
+<%--                                      <h1 style="position:absolute;left:40%; font-size: xx-large; text-transform: uppercase; color: #000000; font-weight: bold;">RideSpot</h1>--%>
+
+                <%--   <h1 align="center" >RideSpot</h1>--%>
+                   <img class="center" src="img/RideSpot.jfif" class="auto-style1"> </img>
+               </td>
+           </tr>
+           <tr>
+               <td width="15%">
+                    <%=menu%> 
+               </td>
+               <td>
+                   
+                   <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+               </td>
+           </tr>
+       </table>
+
+    </form>
+</body>
+</html>

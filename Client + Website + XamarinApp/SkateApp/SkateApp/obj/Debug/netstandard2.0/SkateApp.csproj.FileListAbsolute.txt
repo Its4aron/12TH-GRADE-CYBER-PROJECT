@@ -1,0 +1,39 @@
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\SkateApp.csprojAssemblyReference.cache
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\homePage.xaml.g.cs
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\RegPage.xaml.g.cs
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\SkateApp.AssemblyInfoInputs.cache
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\SkateApp.AssemblyInfo.cs
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\bin\Debug\netstandard2.0\SkateApp.deps.json
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\bin\Debug\netstandard2.0\SkateApp.dll
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\bin\Debug\netstandard2.0\ref\SkateApp.dll
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\bin\Debug\netstandard2.0\SkateApp.pdb
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\SkateApp.dll
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\ref\SkateApp.dll
+E:\fixes\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\SkateApp.pdb
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\bin\Debug\netstandard2.0\SkateApp.deps.json
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\bin\Debug\netstandard2.0\SkateApp.dll
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\bin\Debug\netstandard2.0\ref\SkateApp.dll
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\bin\Debug\netstandard2.0\SkateApp.pdb
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\bin\Debug\netstandard2.0\Xamarin.Android.Support.v7.AppCompat.dll
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\SkateApp.csprojAssemblyReference.cache
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\homePage.xaml.g.cs
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\LocPage.xaml.g.cs
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\RegPage.xaml.g.cs
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\TabPage.xaml.g.cs
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\SkateApp.AssemblyInfoInputs.cache
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\SkateApp.AssemblyInfo.cs
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\SkateApp.csproj.CopyComplete
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\SkateApp.dll
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\ref\SkateApp.dll
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\SkateApp.pdb
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\MapView.xaml.g.cs
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\UpLocPage.xaml.g.cs
+E:\AAON CYBER PROJECT (FIXED)\Aaron PROJECT\WpfApp6_new\SkateApp\SkateApp\obj\Debug\netstandard2.0\SkateApp.csproj.CoreCompileInputs.cache

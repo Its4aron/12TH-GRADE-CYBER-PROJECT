@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yktaEDemG+/miY89K62OpDC32l0Y7/O6NegbswByPpBC8Id3qkqw1xspEMZjWXAcxyczXVeZHg5HT9FQTxqiLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aaron\\Desktop\\Final project build\\Aaron PROJECT\\ModelAaronSkate\\Client + Website + XamarinApp\\SkateApp\\SkateApp.iOS\\SkateApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaron\\.nuget\\packages\\system.servicemodel.duplex\\4.7.0\\system.servicemodel.duplex.4.7.0.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\system.servicemodel.http\\4.7.0\\system.servicemodel.http.4.7.0.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\system.servicemodel.nettcp\\4.7.0\\system.servicemodel.nettcp.4.7.0.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\system.servicemodel.security\\4.7.0\\system.servicemodel.security.4.7.0.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\xamarin.forms\\4.6.0.800\\xamarin.forms.4.6.0.800.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\xamarin.forms.maps\\4.6.0.800\\xamarin.forms.maps.4.6.0.800.nupkg.sha512"
+  ],
+  "logs": []
+}

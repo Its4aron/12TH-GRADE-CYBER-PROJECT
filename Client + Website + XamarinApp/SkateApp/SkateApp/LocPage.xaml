@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SkateApp.LocPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Text="Select spot to navigate" TextColor="Black" FontAttributes="Bold" HorizontalOptions="Center" FontSize="25"/>
+            <StackLayout VerticalOptions="Start" HorizontalOptions="Start" Grid.Row="1">
+            <ListView x:Name="lc" ItemSelected="NavigateItem" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label FontSize="24" TextColor="Black"  Text="{Binding Name}"/>
+                                <Label FontSize="24" Text=" "/>
+                                <Label FontSize="24" Text="{Binding Des}"/>
+                                <Label FontSize="24" Text=" "/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
+    

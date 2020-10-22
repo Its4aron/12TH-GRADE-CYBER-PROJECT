@@ -1,0 +1,90 @@
+﻿body 
+
+
+/*{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}*/
+
+h1{
+    text-align:center;
+}
+.button:hover {
+    background-color: #0094ff
+}
+.button {
+    border-radius: 18px;
+    border:solid;
+    
+    
+}
+.button:active {
+    border-radius:18px;
+    background-color: #0094ff;
+    box-shadow: 0 5px #0094ff;
+    transform: translateY(4px);
+    vertical-align: middle;
+}
+.GridView1{
+    border-collapse:collapse;
+    font-size:25px;
+    direction:ltr;
+  
+}
+a:link {
+    margin: 2px
+}
+a:link, a:visited {
+    margin:2px
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex;
+    border-radius:18px;
+}
+
+a:hover, a:active {
+    background-color: white;
+    color: black;
+}
+    .GridView1 td {
+        text-align: center;
+        padding: 10px;
+        border: solid 1px black;
+    }
+.borderline {
+    border-bottom: black 1px solid;
+}
+.auto-style1 {
+    border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    width: 85px;
+}
+
+
+

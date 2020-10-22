@@ -1,0 +1,73 @@
+﻿<Page x:Class="WpfApp6.AdminC"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:WpfApp6"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AdminC">
+
+  
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+        <TextBlock  Grid.Row="0" x:Name="delete" FontSize="10"></TextBlock>
+        
+        <Button Style="{StaticResource RoundButtonTemplate}"  HorizontalAlignment="Left"  VerticalAlignment="Top" Width="100" Click="gotolocation" Height="40" HorizontalContentAlignment="Stretch">
+            <TextBlock Text="Locations" TextAlignment="Center" ></TextBlock>
+
+        </Button>
+        <Button Style="{StaticResource RoundButtonTemplate}"  HorizontalAlignment="Center"  VerticalAlignment="Top" Width="100" Click="BackToUser" Height="40" HorizontalContentAlignment="Stretch">
+            <TextBlock Text="Users" TextAlignment="Center" ></TextBlock>
+
+        </Button>
+        <Button Style="{StaticResource RoundButtonTemplate}"  HorizontalAlignment="Right"  VerticalAlignment="Top" Width="100" Click="gotosearch" Height="40" HorizontalContentAlignment="Stretch">
+            <TextBlock Text="Search by User" TextAlignment="Center" ></TextBlock>
+
+        </Button>
+        <Button Style="{StaticResource RoundButtonTemplate}"  HorizontalAlignment="Right"  VerticalAlignment="Bottom" Width="100" Click="Button_Clickl" Height="40" HorizontalContentAlignment="Center">
+            <TextBlock Text="Admin's Comments" TextAlignment="Center" ></TextBlock>
+
+        </Button>
+        <TextBlock Text="Comment Page" HorizontalAlignment="Center" VerticalAlignment="Bottom" TextAlignment="Center"  FontSize="35"></TextBlock>
+        <ListView Grid.Row="1" Name="List" FontSize="22"  >
+                <ListView.View>
+                    <GridView>
+                    <GridViewColumn Width="400" Header="Comments:" DisplayMemberBinding="{Binding Comment}"/>
+                    <GridViewColumn  Width="400" Header="Username:" DisplayMemberBinding="{Binding Creator.Username}"/>
+                        
+                    </GridView>
+
+                </ListView.View>
+                <ListView.ContextMenu>
+                    <ContextMenu FontWeight="Bold" Foreground="Black" Background="AliceBlue">
+
+                    <MenuItem Header="Delete Comment" Click="delete_comment"/>
+
+
+
+
+
+                </ContextMenu>
+
+
+
+                </ListView.ContextMenu>
+
+
+
+
+
+            </ListView>
+
+
+
+
+        </Grid>
+</Page>
+
+
+
